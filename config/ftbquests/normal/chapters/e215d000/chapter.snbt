@@ -1,7 +1,0 @@
-{
-	title: "Chapter 9 - Kepler 22b",
-	icon: "extraplanets:kepler22b_grass",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

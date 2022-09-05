@@ -1,10 +1,10 @@
 {
-	title: "Meteor Chest",
-	icon: "wasteland_meteors:meteor_chest",
+	title: "Abandoned Houses",
+	icon: "chisel:technical",
 	x: -0.5d,
 	y: -1.5d,
 	text: [
-		"Meteor Chests can be found inside resource meteors, they can include saplings, plants and other items."
+		"Can be found inside Abandoned House chests, they can include saplings, plants and other items."
 	],
 	dependencies: [
 		"f90d39c2"

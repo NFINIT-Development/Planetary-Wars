@@ -28,5 +28,5 @@ spawntabletweaker.addSpawn("techguns:psychosteve", 1, 1, 1, "MONSTER", ["minecra
 spawntabletweaker.addSpawn("techguns:zombieminer", 1, 1, 1, "MONSTER", ["minecraft:plains"]);
 
 
-spawntabletweaker.removeSpawn("femalezombie:femalezo", "MONSTER", ["minecraft:plains"]);
+//spawntabletweaker.removeSpawn("femalezombie:femalezo", "MONSTER", ["minecraft:plains"]);
 //spawntabletweaker.addSpawn("femalezombie:femalezo", 15, 1, 1, "CREATURE", ["minecraft:plains"]);

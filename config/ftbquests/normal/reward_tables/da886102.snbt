@@ -196,10 +196,10 @@
 	{
 		item: {
 			id: "storagedrawers:basicdrawers",
-			Damage: 2s,
 			tag: {
 				material: "dark_oak"
-			}
+			},
+			Damage: 2s
 		}
 	},
 	{
@@ -245,19 +245,19 @@
 	{
 		item: {
 			id: "storagedrawers:basicdrawers",
-			Damage: 2s,
 			tag: {
 				material: "spruce"
-			}
+			},
+			Damage: 2s
 		}
 	},
 	{
 		item: {
 			id: "storagedrawers:basicdrawers",
-			Damage: 2s,
 			tag: {
 				material: "oak"
-			}
+			},
+			Damage: 2s
 		}
 	},
 	{
@@ -271,172 +271,172 @@
 	{
 		item: {
 			id: "storagedrawers:basicdrawers",
-			Damage: 2s,
 			tag: {
 				material: "spruce"
-			}
+			},
+			Damage: 2s
 		}
 	},
 	{
 		item: {
 			id: "storagedrawers:basicdrawers",
-			Damage: 2s,
 			tag: {
 				material: "birch"
-			}
+			},
+			Damage: 2s
 		}
 	},
 	{
 		item: {
 			id: "storagedrawers:basicdrawers",
-			Damage: 1s,
 			tag: {
 				material: "oak"
-			}
+			},
+			Damage: 1s
 		}
 	},
 	{
 		item: {
 			id: "storagedrawers:basicdrawers",
-			Damage: 1s,
 			tag: {
 				material: "spruce"
-			}
+			},
+			Damage: 1s
 		}
 	},
 	{
 		item: {
 			id: "storagedrawers:basicdrawers",
-			Damage: 1s,
 			tag: {
 				material: "birch"
-			}
+			},
+			Damage: 1s
 		}
 	},
 	{
 		item: {
 			id: "storagedrawers:basicdrawers",
-			Damage: 1s,
 			tag: {
 				material: "jungle"
-			}
+			},
+			Damage: 1s
 		}
 	},
 	{
 		item: {
 			id: "storagedrawers:basicdrawers",
-			Damage: 1s,
 			tag: {
 				material: "acacia"
-			}
+			},
+			Damage: 1s
 		}
 	},
 	{
 		item: {
 			id: "storagedrawers:basicdrawers",
-			Damage: 1s,
 			tag: {
 				material: "dark_oak"
-			}
+			},
+			Damage: 1s
 		}
 	},
 	{
 		item: {
 			id: "storagedrawers:basicdrawers",
-			Damage: 2s,
 			tag: {
 				material: "jungle"
-			}
+			},
+			Damage: 2s
 		}
 	},
 	{
 		item: {
 			id: "storagedrawers:basicdrawers",
-			Damage: 2s,
 			tag: {
 				material: "acacia"
-			}
+			},
+			Damage: 2s
 		}
 	},
 	{
 		item: {
 			id: "storagedrawers:basicdrawers",
-			Damage: 3s,
 			tag: {
 				material: "oak"
-			}
+			},
+			Damage: 3s
 		}
 	},
 	{
 		item: {
 			id: "storagedrawers:basicdrawers",
-			Damage: 3s,
 			tag: {
 				material: "spruce"
-			}
+			},
+			Damage: 3s
 		}
 	},
 	{
 		item: {
 			id: "storagedrawers:basicdrawers",
-			Damage: 3s,
 			tag: {
 				material: "birch"
-			}
+			},
+			Damage: 3s
 		}
 	},
 	{
 		item: {
 			id: "storagedrawers:basicdrawers",
-			Damage: 3s,
 			tag: {
 				material: "jungle"
-			}
+			},
+			Damage: 3s
 		}
 	},
 	{
 		item: {
 			id: "storagedrawers:basicdrawers",
-			Damage: 3s,
 			tag: {
 				material: "acacia"
-			}
+			},
+			Damage: 3s
 		}
 	},
 	{
 		item: {
 			id: "storagedrawers:basicdrawers",
-			Damage: 3s,
 			tag: {
 				material: "dark_oak"
-			}
+			},
+			Damage: 3s
 		}
 	},
 	{
 		item: {
 			id: "storagedrawers:basicdrawers",
-			Damage: 4s,
 			tag: {
 				material: "oak"
-			}
+			},
+			Damage: 4s
 		}
 	},
 	{
 		item: {
 			id: "storagedrawers:basicdrawers",
-			Damage: 4s,
 			tag: {
 				material: "spruce"
-			}
+			},
+			Damage: 4s
 		}
 	},
 	{
 		item: {
 			id: "storagedrawers:basicdrawers",
-			Damage: 4s,
 			tag: {
 				material: "birch"
-			}
+			},
+			Damage: 4s
 		}
 	},
 	{
@@ -466,10 +466,10 @@
 	{
 		item: {
 			id: "storagedrawers:basicdrawers",
-			Damage: 4s,
 			tag: {
 				material: "dark_oak"
-			}
+			},
+			Damage: 4s
 		}
 	},
 	{
@@ -484,19 +484,19 @@
 	{
 		item: {
 			id: "storagedrawers:basicdrawers",
-			Damage: 4s,
 			tag: {
 				material: "acacia"
-			}
+			},
+			Damage: 4s
 		}
 	},
 	{
 		item: {
 			id: "storagedrawers:basicdrawers",
-			Damage: 4s,
 			tag: {
 				material: "jungle"
-			}
+			},
+			Damage: 4s
 		}
 	},
 	{
@@ -507,21 +507,21 @@
 	},
 	{
 		item: {
+			ForgeCaps: {
+				Parent: {
+					Filter: [],
+					Inventory: []
+				}
+			},
 			id: "simplybackpacks:commonbackpack",
 			tag: {
 				inv: {
-					Items: [],
-					Size: 18
+					Size: 18,
+					Items: []
 				},
 				filter: {
-					Items: [],
-					Size: 16
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					Inventory: [],
-					Filter: []
+					Size: 16,
+					Items: []
 				}
 			}
 		}
@@ -619,16 +619,8 @@
 	{
 		item: {
 			id: "projectred-exploration:backpack",
-			Damage: 15s,
-			tag: {}
-		}
-	},
-	{
-		item: {
-			id: "thermalinnovation:magnet",
-			tag: {
-				Energy: 40000
-			}
+			tag: {},
+			Damage: 15s
 		}
 	},
 	{
@@ -697,33 +689,6 @@
 				blockstate: {
 					Name: "minecraft:air"
 				}
-			}
-		}
-	},
-	{
-		item: {
-			id: "thermalinnovation:drill",
-			tag: {
-				Energy: 40000,
-				Mode: 1
-			}
-		}
-	},
-	{
-		item: {
-			id: "thermalinnovation:saw",
-			tag: {
-				Energy: 40000,
-				Mode: 1
-			}
-		}
-	},
-	{
-		item: {
-			id: "thermalcultivation:watering_can",
-			tag: {
-				Water: 4000,
-				Mode: 0
 			}
 		}
 	},
@@ -849,9 +814,9 @@
 		item_name: "Common Reward",
 		color: 15921645,
 		drops: {
+			boss: 0,
 			passive: 0,
-			monster: 0,
-			boss: 0
+			monster: 0
 		}
 	}
 }

@@ -7,7 +7,6 @@ This file is regenerated every time minecraft is ran to handle any addons added 
 
 | ### PLANETS ###
 |------------------
-| space_nether              -2541
 | proxima_b                 -1025
 | kepler22b                   -22
 | mercury                   -1005
@@ -16,18 +15,13 @@ This file is regenerated every time minecraft is ran to handle any addons added 
 | overworld                     0
 | tauceti_f                 -1338
 | mars                        -29
-| fronos                    -2545
 | ceres                     -1007
 | asteroids                   -30
-| nibiru                    -2544
-| chalos                    -2543
 | eris                        -21
-| diona                     -2542
 
 
 | ### MOONS ###
 |------------------
-| koentus                   -2642
 | io                        -1014
 | miranda                   -1024
 | moon                        -28

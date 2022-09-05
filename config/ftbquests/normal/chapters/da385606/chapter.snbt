@@ -1,7 +1,7 @@
 {
 	title: "Chapter 2 - Advanced Radiation",
 	icon: {
-		id: "atomicscience:hazmat_mask",
+		id: "techguns:hazmat_helmet",
 		tag: {}
 	},
 	always_invisible: false,

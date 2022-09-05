@@ -2,9 +2,6 @@
 	title: "Rare Ores",
 	x: 4.5d,
 	y: -2.5d,
-	text: [
-		"Rare Ores found inside resource meteors."
-	],
 	dependencies: [
 		"0903d43c"
 	],
@@ -69,20 +66,6 @@
 		type: "item",
 		items: [{
 			item: "thermalfoundation:ore 1 3"
-		}]
-	},
-	{
-		uid: "d4917b28",
-		type: "item",
-		items: [{
-			item: "thermalfoundation:ore 1 6"
-		}]
-	},
-	{
-		uid: "58a170f7",
-		type: "item",
-		items: [{
-			item: "galacticraftcore:basic_item 1 2"
 		}]
 	}],
 	rewards: [{

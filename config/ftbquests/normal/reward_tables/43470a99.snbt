@@ -80,9 +80,9 @@
 		item_name: "Food Reward",
 		color: 15578382,
 		drops: {
+			boss: 0,
 			passive: 0,
-			monster: 0,
-			boss: 0
+			monster: 0
 		}
 	}
 }

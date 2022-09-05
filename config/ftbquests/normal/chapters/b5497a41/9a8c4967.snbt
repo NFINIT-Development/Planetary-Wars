@@ -2,7 +2,7 @@
 	x: 5.0d,
 	y: -1.5d,
 	text: [
-		"The Survivalist Generator is a generator that allows early power generation.",
+		"The Coal Generator is a generator that allows early power generation.",
 		"",
 		" It burns coal to produce electricity."
 	],
@@ -10,13 +10,10 @@
 		"8b93b976"
 	],
 	tasks: [{
-		uid: "ccd4b786",
+		uid: "a9404cb9",
 		type: "item",
 		items: [{
-			id: "extrautils2:machine",
-			tag: {
-				Type: "extrautils2:generator_survival"
-			}
+			item: "galacticraftcore:machine"
 		}]
 	}],
 	rewards: [{

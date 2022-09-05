@@ -1,5 +1,6 @@
 {
-	title: "Meteors",
+	title: "Mining Outposts",
+	icon: "chisel:technical",
 	x: -2.5d,
 	y: -1.5d,
 	text: [
@@ -9,12 +10,11 @@
 		"3e215254"
 	],
 	tasks: [{
-		uid: "9ca34b90",
+		uid: "0b732480",
 		type: "item",
 		items: [{
-			item: "wasteland_meteors:meteor_block"
-		}],
-		count: 8L
+			item: "chisel:factory 1 12"
+		}]
 	}],
 	rewards: [{
 		uid: "c8d754d7",

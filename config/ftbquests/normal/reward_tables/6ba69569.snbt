@@ -23,28 +23,17 @@
 	},
 	{
 		item: {
-			id: "thermalinnovation:magnet",
-			tag: {
-				Energy: 40000
-			}
-		}
-	},
-	{
-		item: {
-			id: "thermalexpansion:capacitor",
-			tag: {
-				Energy: 1000000
-			}
-		}
-	},
-	{
-		item: {
-			id: "thermalexpansion:reservoir",
-			tag: {}
-		}
-	},
-	{
-		item: {
+			ForgeCaps: {
+				Parent: {
+					Inv: [],
+					EnergyStorage: {
+						Charging: 0b,
+						Energy: 0,
+						BurnTime: 0,
+						On: 0b
+					}
+				}
+			},
 			id: "inventorygenerators:inv_survivalist_gen",
 			tag: {
 				Charging: 0b,
@@ -52,47 +41,6 @@
 				BurnTime: 0,
 				On: 0b
 			}
-		}
-	},
-	{
-		item: {
-			id: "thermalexpansion:capacitor",
-			tag: {
-				Energy: 1000000
-			}
-		}
-	},
-	{
-		item: {
-			id: "thermalinnovation:drill",
-			tag: {
-				Energy: 40000,
-				Mode: 1
-			}
-		}
-	},
-	{
-		item: {
-			id: "thermalinnovation:saw",
-			tag: {
-				Energy: 40000,
-				Mode: 1
-			}
-		}
-	},
-	{
-		item: {
-			id: "thermalinnovation:magnet",
-			Damage: 1s,
-			tag: {
-				Energy: 120000
-			}
-		}
-	},
-	{
-		item: {
-			id: "thermalexpansion:reservoir",
-			tag: {}
 		}
 	},
 	{
@@ -110,23 +58,14 @@
 	{
 		item: {
 			id: "whoosh:transporter",
-			Damage: 1s,
 			tag: {
 				Energy: 100000,
 				Fluid: {
 					FluidName: "ender",
 					Amount: 2000
 				}
-			}
-		}
-	},
-	{
-		item: {
-			id: "thermalexpansion:tank",
-			tag: {
-				RSControl: 0b,
-				Level: 0b
-			}
+			},
+			Damage: 1s
 		}
 	},
 	{
@@ -152,6 +91,17 @@
 	},
 	{
 		item: {
+			ForgeCaps: {
+				Parent: {
+					Inv: [],
+					EnergyStorage: {
+						Charging: 0b,
+						Energy: 0,
+						BurnTime: 0,
+						On: 0b
+					}
+				}
+			},
 			id: "inventorygenerators:inv_pink_gen",
 			tag: {
 				Charging: 0b,
@@ -163,6 +113,17 @@
 	},
 	{
 		item: {
+			ForgeCaps: {
+				Parent: {
+					Inv: [],
+					EnergyStorage: {
+						Charging: 0b,
+						Energy: 0,
+						BurnTime: 0,
+						On: 0b
+					}
+				}
+			},
 			id: "inventorygenerators:inv_overclocked_gen",
 			tag: {
 				Charging: 0b,
@@ -174,6 +135,17 @@
 	},
 	{
 		item: {
+			ForgeCaps: {
+				Parent: {
+					Inv: [],
+					EnergyStorage: {
+						Charging: 0b,
+						Energy: 0,
+						BurnTime: 0,
+						On: 0b
+					}
+				}
+			},
 			id: "inventorygenerators:inv_potion_gen",
 			tag: {
 				Charging: 0b,
@@ -185,6 +157,17 @@
 	},
 	{
 		item: {
+			ForgeCaps: {
+				Parent: {
+					Inv: [],
+					EnergyStorage: {
+						Charging: 0b,
+						Energy: 0,
+						BurnTime: 0,
+						On: 0b
+					}
+				}
+			},
 			id: "inventorygenerators:inv_slimey_gen",
 			tag: {
 				Charging: 0b,
@@ -196,6 +179,17 @@
 	},
 	{
 		item: {
+			ForgeCaps: {
+				Parent: {
+					Inv: [],
+					EnergyStorage: {
+						Charging: 0b,
+						Energy: 0,
+						BurnTime: 0,
+						On: 0b
+					}
+				}
+			},
 			id: "inventorygenerators:inv_culinary_gen",
 			tag: {
 				Charging: 0b,
@@ -207,6 +201,17 @@
 	},
 	{
 		item: {
+			ForgeCaps: {
+				Parent: {
+					Inv: [],
+					EnergyStorage: {
+						Charging: 0b,
+						Energy: 0,
+						BurnTime: 0,
+						On: 0b
+					}
+				}
+			},
 			id: "inventorygenerators:inv_death_gen",
 			tag: {
 				Charging: 0b,
@@ -218,6 +223,17 @@
 	},
 	{
 		item: {
+			ForgeCaps: {
+				Parent: {
+					Inv: [],
+					EnergyStorage: {
+						Charging: 0b,
+						Energy: 0,
+						BurnTime: 0,
+						On: 0b
+					}
+				}
+			},
 			id: "inventorygenerators:inv_end_gen",
 			tag: {
 				Charging: 0b,
@@ -229,6 +245,17 @@
 	},
 	{
 		item: {
+			ForgeCaps: {
+				Parent: {
+					Inv: [],
+					EnergyStorage: {
+						Charging: 0b,
+						Energy: 0,
+						BurnTime: 0,
+						On: 0b
+					}
+				}
+			},
 			id: "inventorygenerators:inv_explosive_gen",
 			tag: {
 				Charging: 0b,
@@ -240,6 +267,17 @@
 	},
 	{
 		item: {
+			ForgeCaps: {
+				Parent: {
+					Inv: [],
+					EnergyStorage: {
+						Charging: 0b,
+						Energy: 0,
+						BurnTime: 0,
+						On: 0b
+					}
+				}
+			},
 			id: "inventorygenerators:inv_halitosis_gen",
 			tag: {
 				Charging: 0b,
@@ -251,6 +289,17 @@
 	},
 	{
 		item: {
+			ForgeCaps: {
+				Parent: {
+					Inv: [],
+					EnergyStorage: {
+						Charging: 0b,
+						Energy: 0,
+						BurnTime: 0,
+						On: 0b
+					}
+				}
+			},
 			id: "inventorygenerators:inv_furnace_gen",
 			tag: {
 				Charging: 0b,
@@ -262,6 +311,17 @@
 	},
 	{
 		item: {
+			ForgeCaps: {
+				Parent: {
+					Inv: [],
+					EnergyStorage: {
+						Charging: 0b,
+						Energy: 0,
+						BurnTime: 0,
+						On: 0b
+					}
+				}
+			},
 			id: "inventorygenerators:inv_frosty_gen",
 			tag: {
 				Charging: 0b,
@@ -273,6 +333,17 @@
 	},
 	{
 		item: {
+			ForgeCaps: {
+				Parent: {
+					Inv: [],
+					EnergyStorage: {
+						Charging: 0b,
+						Energy: 0,
+						BurnTime: 0,
+						On: 0b
+					}
+				}
+			},
 			id: "inventorygenerators:inv_magmatic_gen",
 			tag: {
 				Charging: 0b,
@@ -284,6 +355,17 @@
 	},
 	{
 		item: {
+			ForgeCaps: {
+				Parent: {
+					Inv: [],
+					EnergyStorage: {
+						Charging: 0b,
+						Energy: 0,
+						BurnTime: 0,
+						On: 0b
+					}
+				}
+			},
 			id: "inventorygenerators:inv_nether_star_gen",
 			tag: {
 				Charging: 0b,
@@ -292,12 +374,6 @@
 				On: 0b
 			}
 		}
-	},
-	{
-		item: "extrautils2:compoundbow"
-	},
-	{
-		item: "extrautils2:fireaxe"
 	},
 	{
 		item: "furnaceoverhaul:efficiency_upgrade"
@@ -313,135 +389,6 @@
 	},
 	{
 		item: "furnaceoverhaul:speed_upgrade"
-	},
-	{
-		item: {
-			id: "extrautils2:machine",
-			tag: {
-				Type: "extrautils2:generator_culinary"
-			}
-		}
-	},
-	{
-		item: {
-			id: "extrautils2:machine",
-			tag: {
-				Type: "extrautils2:generator_ender"
-			}
-		}
-	},
-	{
-		item: {
-			id: "extrautils2:machine",
-			tag: {
-				Type: "extrautils2:generator_tnt"
-			}
-		}
-	},
-	{
-		item: {
-			id: "extrautils2:machine",
-			tag: {
-				Type: "extrautils2:generator"
-			}
-		}
-	},
-	{
-		item: {
-			id: "extrautils2:machine",
-			tag: {
-				Type: "extrautils2:generator_dragonsbreath"
-			}
-		}
-	},
-	{
-		item: {
-			id: "extrautils2:machine",
-			tag: {
-				Type: "extrautils2:generator_redstone"
-			}
-		}
-	},
-	{
-		item: {
-			id: "extrautils2:machine",
-			tag: {
-				Type: "extrautils2:generator_lava"
-			}
-		}
-	},
-	{
-		item: {
-			id: "extrautils2:machine",
-			tag: {
-				Type: "extrautils2:generator_netherstar"
-			}
-		}
-	},
-	{
-		item: {
-			id: "extrautils2:machine",
-			tag: {
-				Type: "extrautils2:generator_overclock"
-			}
-		}
-	},
-	{
-		item: {
-			id: "extrautils2:machine",
-			tag: {
-				Type: "extrautils2:generator_pink"
-			}
-		}
-	},
-	{
-		item: {
-			id: "extrautils2:machine",
-			tag: {
-				Type: "extrautils2:generator_potion"
-			}
-		}
-	},
-	{
-		item: {
-			id: "extrautils2:machine",
-			tag: {
-				Type: "extrautils2:generator_survival"
-			}
-		}
-	},
-	{
-		item: "extrautils2:drum 1 1"
-	},
-	{
-		item: "extrautils2:drum 1 2"
-	},
-	{
-		item: "extrautils2:drum"
-	},
-	{
-		item: "extrautils2:goldenlasso 1 1"
-	},
-	{
-		item: "extrautils2:goldenlasso"
-	},
-	{
-		item: "extrautils2:bagofholding"
-	},
-	{
-		item: "extrautils2:itembuilderswand"
-	},
-	{
-		item: "extrautils2:itemdestructionwand"
-	},
-	{
-		item: "extrautils2:trashcan"
-	},
-	{
-		item: "extrautils2:trashcanfluid"
-	},
-	{
-		item: "extrautils2:trashcanenergy"
 	},
 	{
 		item: {
@@ -626,90 +573,72 @@
 	},
 	{
 		item: {
+			ForgeCaps: {
+				Parent: {
+					Filter: [],
+					Inventory: []
+				}
+			},
 			id: "simplybackpacks:rarebackpack",
 			tag: {
 				inv: {
-					Items: [],
-					Size: 66
+					Size: 66,
+					Items: []
 				},
 				filter: {
-					Items: [],
-					Size: 16
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					Inventory: [],
-					Filter: []
+					Size: 16,
+					Items: []
 				}
 			}
 		}
 	},
 	{
 		item: {
+			ForgeCaps: {
+				Parent: {
+					Filter: [],
+					Inventory: []
+				}
+			},
 			id: "simplybackpacks:commonbackpack",
 			tag: {
 				inv: {
-					Items: [],
-					Size: 18
+					Size: 18,
+					Items: []
 				},
 				filter: {
-					Items: [],
-					Size: 16
-				}
-			},
-			ForgeCaps: {
-				Parent: {
-					Inventory: [],
-					Filter: []
+					Size: 16,
+					Items: []
 				}
 			}
 		}
 	},
 	{
 		item: {
+			ForgeCaps: {
+				Parent: {
+					Filter: [],
+					Inventory: []
+				}
+			},
 			id: "simplybackpacks:uncommonbackpack",
 			tag: {
 				inv: {
-					Items: [],
-					Size: 33
+					Size: 33,
+					Items: []
 				},
 				filter: {
-					Items: [],
-					Size: 16
+					Size: 16,
+					Items: []
 				}
-			},
-			ForgeCaps: {
-				Parent: {
-					Inventory: [],
-					Filter: []
-				}
-			}
-		}
-	},
-	{
-		item: {
-			id: "thermalinnovation:magnet",
-			Damage: 1s,
-			tag: {
-				Energy: 120000
-			}
-		}
-	},
-	{
-		item: {
-			id: "thermalinnovation:magnet",
-			Damage: 2s,
-			tag: {
-				Energy: 240000
 			}
 		}
 	},
 	{
 		item: {
 			id: "simplyjetpacks:itemjetpack",
-			Damage: 20s,
-			tag: {}
+			tag: {},
+			Damage: 20s
 		}
 	},
 	{
@@ -727,34 +656,14 @@
 	{
 		item: {
 			id: "whoosh:transporter",
-			Damage: 1s,
 			tag: {
 				Energy: 100000,
 				Fluid: {
 					FluidName: "ender",
 					Amount: 2000
 				}
-			}
-		}
-	},
-	{
-		item: {
-			id: "thermalinnovation:drill",
-			Damage: 1s,
-			tag: {
-				Energy: 120000,
-				Mode: 2
-			}
-		}
-	},
-	{
-		item: {
-			id: "thermalinnovation:drill",
-			Damage: 2s,
-			tag: {
-				Energy: 240000,
-				Mode: 2
-			}
+			},
+			Damage: 1s
 		}
 	},
 	{
@@ -788,149 +697,6 @@
 		item: "sevendaystomine:winxp_disc"
 	},
 	{
-		item: "inventorypets:apple_pet"
-	},
-	{
-		item: "inventorypets:cheetah_pet"
-	},
-	{
-		item: {
-			id: "inventorypets:house_pet",
-			tag: {
-				homeDimension: 0
-			}
-		}
-	},
-	{
-		item: "inventorypets:pacman_pet"
-	},
-	{
-		item: "inventorypets:pixie_pet"
-	},
-	{
-		item: "inventorypets:silverfish_pet"
-	},
-	{
-		item: "inventorypets:torch_pet"
-	},
-	{
-		item: "inventorypets:wolf_pet"
-	},
-	{
-		item: "inventorypets:banana_pet"
-	},
-	{
-		item: {
-			id: "inventorypets:chicken_pet",
-			tag: {
-				GiveItems: 1b
-			}
-		}
-	},
-	{
-		item: "inventorypets:cow_pet"
-	},
-	{
-		item: "inventorypets:mooshroom_pet"
-	},
-	{
-		item: "inventorypets:ocelot_pet"
-	},
-	{
-		item: {
-			id: "inventorypets:pig_pet",
-			tag: {
-				GiveItems: 1b
-			}
-		}
-	},
-	{
-		item: {
-			id: "inventorypets:sheep_pet",
-			tag: {
-				GiveItems: 1b
-			}
-		}
-	},
-	{
-		item: "inventorypets:squid_pet"
-	},
-	{
-		item: "inventorypets:blaze_pet"
-	},
-	{
-		item: "inventorypets:creeper_pet"
-	},
-	{
-		item: "inventorypets:enderman_pet"
-	},
-	{
-		item: "inventorypets:ghast_pet"
-	},
-	{
-		item: {
-			id: "inventorypets:iron_golem_pet",
-			tag: {
-				GiveItems: 1b
-			}
-		}
-	},
-	{
-		item: "inventorypets:magma_cube_pet"
-	},
-	{
-		item: {
-			id: "inventorypets:spider_pet",
-			tag: {
-				GiveItems: 1b
-			}
-		}
-	},
-	{
-		item: {
-			id: "inventorypets:snow_golem_pet",
-			tag: {
-				GiveItems: 1b
-			}
-		}
-	},
-	{
-		item: "inventorypets:anvil_pet"
-	},
-	{
-		item: "inventorypets:bed_pet"
-	},
-	{
-		item: "inventorypets:brewing_stand_pet"
-	},
-	{
-		item: "inventorypets:chest_pet"
-	},
-	{
-		item: "inventorypets:crafting_table_pet"
-	},
-	{
-		item: "inventorypets:double_chest_pet"
-	},
-	{
-		item: "inventorypets:enchanting_table_pet"
-	},
-	{
-		item: "inventorypets:ender_chest_pet"
-	},
-	{
-		item: "inventorypets:furnace_pet"
-	},
-	{
-		item: "inventorypets:jukebox_pet"
-	},
-	{
-		item: "inventorypets:lead_pet"
-	},
-	{
-		item: "inventorypets:saddle_pet"
-	},
-	{
 		item: "storagedrawers:upgrade_storage 1 3"
 	},
 	{
@@ -944,9 +710,9 @@
 		item_name: "Rare Reward",
 		color: 717009,
 		drops: {
+			boss: 0,
 			passive: 0,
-			monster: 0,
-			boss: 0
+			monster: 0
 		}
 	}
 }

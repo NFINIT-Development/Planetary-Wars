@@ -2,9 +2,6 @@
 	title: "Iron Ore",
 	x: 3.0d,
 	y: -1.5d,
-	text: [
-		"Iron Ore is the most abundant ore found inside meteors."
-	],
 	dependencies: [
 		"f90d39c2"
 	],
