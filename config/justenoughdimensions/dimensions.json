@@ -5,14 +5,15 @@
 	  "biome": "minecraft:plains",
       "dimensiontype": {
         "id": 3,
-        "name": "Wildzone",
-        "suffix": "_wildzone",
+        "name": "creative",
+        "suffix": "_creative",
         "keeploaded": true,
         "worldprovider": "WorldProviderSurfaceJED"
       },
 	  
 	  "worldinfo": {
         "JED": {
+        "PlayerInventoryGroup": "",
         "SkyColor": "8B572A"
         }
       }

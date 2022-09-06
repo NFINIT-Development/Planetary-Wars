@@ -241,3 +241,22 @@ mods/V0id's Smart Backpacks-1.0.6.jar
 mods/Whoosh-1.12.2-0.1.12.1-universal.jar
 mods/wormhole-1.1.10-forge-mc1.12.jar
 mods/XL-Food-Mod-1.12.2-1.9.2.jar
+config/jei/worldSettings.cfg
+config/jei/worldSettings.cfg
+config/jei/worldSettings.cfg
+crash-reports/crash-2022-09-05_22.25.28-client.txt
+fonts/Digital-7 Mono.bin
+fonts/Digital-7 Mono.png
+llibrary/config.dat
+llibrary/debug/net.minecraft.client.model.ModelBiped.class
+llibrary/debug/net.minecraft.client.renderer.entity.RenderLivingBase.class
+llibrary/debug/net.minecraft.client.renderer.entity.RenderPlayer.class
+llibrary/debug/net.minecraft.client.renderer.EntityRenderer.class
+llibrary/debug/net.minecraft.client.renderer.tileentity.TileEntityItemStackRenderer.class
+llibrary/debug/net.minecraft.client.resources.Locale.class
+llibrary/debug/net.minecraft.server.MinecraftServer.class
+llibrary/debug/net.minecraftforge.client.ForgeHooksClient.class
+mods/DoomlikeDungeons-1.14.11-MC1.12.2.jar
+mods/justenoughdimensions-1.12.2-1.6.0-dev.20200416.184714.jar
+config/jei/worldSettings.cfg
+*.jar
